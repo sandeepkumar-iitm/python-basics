@@ -10,7 +10,7 @@ IIT Madras Data Science student (Foundation Year, Semester 2).
 - Simple and clear Python programs
 - Projects for logic building
 - Practice problems for beginners
-
+- Student Result Management System using Python 
 ## Skills Covered
 - Python fundamentals
 - Input / Output handling
